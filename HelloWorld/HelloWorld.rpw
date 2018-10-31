@@ -57,13 +57,13 @@ I-Logix-RPY-Archive version 8.14.0 * 9810313
 				- _id = GUID 77dc5e72-9eae-431b-8c60-cb89caefaae5;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1073 421 ;
+			- _DownRight = 1225 433 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 			- m_bIsActiveView = 1;
 		}
 	}
-	- _fullName = "F:\\Acclivis_project\\GitHub\\HelloWorld\\HelloWorld";
+	- _fullName = "F:\\Acclivis_project\\GitHub\\ToServer\\Rhapsody-App-Dev\\HelloWorld\\HelloWorld";
 	- _selectedPerspective = "Advanced";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
